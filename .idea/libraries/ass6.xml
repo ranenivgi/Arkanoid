@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ass6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/checkstyle-8.44-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/biuoop-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
